@@ -1,0 +1,12 @@
+$ git log
+commit 0f566abbc0f5db3bdec3863b294cbe018e968f67 (HEAD -> master, subranch)
+Author: Youssef Al Shadidi <youssef.as@gmail.com>
+Date:   Thu Nov 5 16:25:27 2020 +0100
+
+    created sub branch
+
+commit 403eb72f10651d3234d46c70ef37acb9a2cd2ff3 (origin/master)
+Author: Youssef Al Shadidi <youssef.as@gmail.com>
+Date:   Thu Nov 5 16:17:52 2020 +0100
+
+    Initial commit
